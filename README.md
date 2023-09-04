@@ -7,6 +7,8 @@ Made with love in Unity.
 
 [View demo video](https://vimeo.com/533338837)
 
+[Read the full research project](http://inchospital.freehostia.com/)
+
 ![thumbnail](thumbnail_1.png) 
 ![thumbnail](thumbnail_2.png)
 
